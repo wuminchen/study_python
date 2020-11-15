@@ -10,13 +10,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+    </expand>
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8bdc72c-a6c2-4c14-b65c-6d5c219094eb" name="默认的" comment="" />
@@ -24,6 +25,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../study_python\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,10 +46,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
   </component>
-  <component name="RunManager" selected="Python.4.04作业">
-    <configuration name="3.09转化成浮点数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4.15嵌套打印矩形">
+    <configuration name="4.11while循环语句的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/3.09转化成浮点数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.11while循环语句的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.11算数运算符的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.12while语句的练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/3.11算数运算符的基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.12while语句的练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.13赋值运算符的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.13for.....in循环的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,28 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/3.13赋值运算符的使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.04作业" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.04作业.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.13for.....in循环的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,18 +112,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.04if....else语句使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.14brea和continue的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.04if....else语句使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.14brea和continue的使用.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.15嵌套打印矩形" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.15嵌套打印矩形.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -149,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.04作业" />
-        <item itemvalue="Python.4.04if....else语句使用" />
-        <item itemvalue="Python.4.04if....else语句使用" />
-        <item itemvalue="Python.3.09转化成浮点数" />
-        <item itemvalue="Python.3.13赋值运算符的使用" />
+        <item itemvalue="Python.4.15嵌套打印矩形" />
+        <item itemvalue="Python.4.14brea和continue的使用" />
+        <item itemvalue="Python.4.13for.....in循环的使用" />
+        <item itemvalue="Python.4.12while语句的练习" />
+        <item itemvalue="Python.4.11while循环语句的使用" />
       </list>
     </recent_temporary>
   </component>
@@ -173,65 +180,100 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="183" key="#检查" timestamp="1605344660134">
+    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605402328349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="183" key="#检查/0.0.1920.1040@0.0.1920.1040" timestamp="1605344660134" />
+    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605402328349" />
+    <state x="655" y="153" key="#xdebugger.evaluate" timestamp="1605429284992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="153" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1605429284992" />
+    <state x="582" y="183" key="#检查" timestamp="1605421623536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="183" key="#检查/0.0.1920.1040@0.0.1920.1040" timestamp="1605421623536" />
+    <state x="678" y="303" key="#通知" timestamp="1605401194470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="303" key="#通知/0.0.1920.1040@0.0.1920.1040" timestamp="1605401194470" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605347166556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605347166556" />
-    <state x="-1180" y="105" key="FileChooserDialogImpl" timestamp="1605189449922">
-      <screen x="-1920" y="-169" width="1920" height="1030" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1605408361601">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="105" key="FileChooserDialogImpl/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1605189449922" />
-    <state width="1895" height="271" key="GridCell.Tab.0.bottom" timestamp="1605350938993">
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605408361601" />
+    <state width="1894" height="332" key="GridCell.Tab.0.bottom" timestamp="1605429629977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1895" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605350938993" />
-    <state width="1895" height="271" key="GridCell.Tab.0.center" timestamp="1605350938993">
+    <state width="1894" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.0.center" timestamp="1605429629977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1895" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605350938993" />
-    <state width="1895" height="271" key="GridCell.Tab.0.left" timestamp="1605350938993">
+    <state width="1894" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.0.left" timestamp="1605429629977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429005" />
-    <state width="1895" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605350938993" />
-    <state width="1895" height="271" key="GridCell.Tab.0.right" timestamp="1605350938993">
+    <state width="1894" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.0.right" timestamp="1605429629977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1895" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605350938993" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1604894429006">
-      <screen x="-1920" y="-169" width="1920" height="1030" />
+    <state width="1894" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.1.bottom" timestamp="1605429629977">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1604894429006">
-      <screen x="-1920" y="-169" width="1920" height="1030" />
+    <state width="1894" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.1.center" timestamp="1605429629977">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1604894429006">
-      <screen x="-1920" y="-169" width="1920" height="1030" />
+    <state width="1894" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.1.left" timestamp="1605429629977">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1604894429006">
-      <screen x="-1920" y="-169" width="1920" height="1030" />
+    <state width="1894" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state width="1894" height="332" key="GridCell.Tab.1.right" timestamp="1605429629977">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
-    <state x="461" y="164" width="1176" height="711" key="SettingsEditor" timestamp="1605343612134">
+    <state width="1894" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605429629977" />
+    <state x="644" y="58" width="1176" height="883" key="SettingsEditor" timestamp="1605424771174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="-7" key="SettingsEditor/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894082120" />
-    <state x="461" y="164" width="1176" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605343612134" />
+    <state x="644" y="58" width="1176" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605424771174" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/4.11while循环语句的使用.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
