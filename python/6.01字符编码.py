@@ -7,6 +7,7 @@ print(ord("撒"))
 print(chr(65))  # A  获取数字对应的字母
 print(ord('是'))
 
-# 字符串转化为指定编码集
+# 字符串转化为指定编码集 encode
+# 编码集转化为字符串 decode
 print("是".encode('gbk'))
 print("是".encode('utf8'))
