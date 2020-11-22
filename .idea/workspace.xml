@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.6.03格式化打印字符串">
+  <component name="RunManager" selected="Python.6.07列表的修改查询和删除">
     <configuration name="4.18打印九九乘法表" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,69 +48,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4.18打印九九乘法表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5.09字符串的下标和切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.09字符串的下标和切片.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5.10字符串的常见操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.10字符串的常见操作.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5.11字符串内容分割" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.11字符串内容分割.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +98,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6.05列表的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.05列表的基本使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.06列表的增加" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.06列表的增加.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.07列表的修改查询和删除" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.07列表的修改查询和删除.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.07列表的修改查询和删除" />
+        <item itemvalue="Python.6.06列表的增加" />
+        <item itemvalue="Python.6.05列表的基本使用" />
         <item itemvalue="Python.6.03格式化打印字符串" />
         <item itemvalue="Python.6.01字符编码" />
-        <item itemvalue="Python.5.11字符串内容分割" />
-        <item itemvalue="Python.5.10字符串的常见操作" />
-        <item itemvalue="Python.5.09字符串的下标和切片" />
       </list>
     </recent_temporary>
   </component>
@@ -201,10 +201,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605933476813">
+    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1606028715309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605933476813" />
+    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606028715309" />
     <state x="655" y="153" key="#xdebugger.evaluate" timestamp="1605429284992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -221,68 +221,72 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605347166556" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1605933475626">
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1606028713216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="105" key="FileChooserDialogImpl/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1605189449922" />
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605933475626" />
-    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1606019137813">
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606028713216" />
+    <state x="98" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1606026756305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="98" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040@0.0.1920.1040" timestamp="1606026756305" />
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1606030960649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.bottom/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606019137813" />
-    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1606019137813">
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
+    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1606030960649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.center/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606019137813" />
-    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1606019137813">
+    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
+    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1606030960649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429005" />
     <state width="1692" height="332" key="GridCell.Tab.0.left/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606019137813" />
-    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1606019137813">
+    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1606030960649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.right/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606019137813" />
-    <state width="1894" height="405" key="GridCell.Tab.1.bottom" timestamp="1605967911269">
+    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
+    <state width="1894" height="405" key="GridCell.Tab.1.bottom" timestamp="1606028718201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.bottom/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="405" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
-    <state width="1894" height="405" key="GridCell.Tab.1.center" timestamp="1605967911269">
+    <state width="1894" height="405" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606028718201" />
+    <state width="1894" height="405" key="GridCell.Tab.1.center" timestamp="1606028718201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.center/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="405" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
-    <state width="1894" height="405" key="GridCell.Tab.1.left" timestamp="1605967911269">
+    <state width="1894" height="405" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606028718201" />
+    <state width="1894" height="405" key="GridCell.Tab.1.left" timestamp="1606028718201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.left/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="405" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
-    <state width="1894" height="405" key="GridCell.Tab.1.right" timestamp="1605967911269">
+    <state width="1894" height="405" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606028718201" />
+    <state width="1894" height="405" key="GridCell.Tab.1.right" timestamp="1606028718201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.right/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="405" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
-    <state x="744" y="101" width="1176" height="883" key="SettingsEditor" timestamp="1606012562642">
+    <state width="1894" height="405" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606028718201" />
+    <state x="744" y="101" width="1176" height="883" key="SettingsEditor" timestamp="1606028803466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="-7" key="SettingsEditor/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894082120" />
-    <state x="744" y="101" width="1176" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606012562642" />
-    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup" timestamp="1606012037251">
+    <state x="744" y="101" width="1176" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606028803466" />
+    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup" timestamp="1606030331045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606012037251" />
+    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606030331045" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
