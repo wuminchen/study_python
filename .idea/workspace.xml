@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8bdc72c-a6c2-4c14-b65c-6d5c219094eb" name="默认的" comment="" />
@@ -43,12 +28,13 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.常规" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.5.06求斐波那契数列">
+  <component name="RunManager" selected="Python.5.11字符串内容分割">
     <configuration name="4.18打印九九乘法表" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.01基础题目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.07挑战练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.01基础题目.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.07挑战练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.02进阶题目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.08字符串的表示方式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.02进阶题目.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.08字符串的表示方式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.03for.....else求质数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.09字符串的下标和切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="Z:\study_python\python\5.03for.....else求质数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.09字符串的下标和切片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.05使用计数法求素数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.10字符串的常见操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.05使用计数法求素数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.10字符串的常见操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.06求斐波那契数列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.11字符串内容分割" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.06求斐波那契数列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.11字符串内容分割.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5.06求斐波那契数列" />
-        <item itemvalue="Python.5.05使用计数法求素数" />
-        <item itemvalue="Python.5.03for.....else求质数" />
-        <item itemvalue="Python.5.02进阶题目" />
-        <item itemvalue="Python.5.01基础题目" />
+        <item itemvalue="Python.5.11字符串内容分割" />
+        <item itemvalue="Python.5.10字符串的常见操作" />
+        <item itemvalue="Python.5.09字符串的下标和切片" />
+        <item itemvalue="Python.5.08字符串的表示方式" />
+        <item itemvalue="Python.5.07挑战练习" />
       </list>
     </recent_temporary>
   </component>
@@ -240,59 +226,63 @@
     </state>
     <state x="-1180" y="105" key="FileChooserDialogImpl/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1605189449922" />
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605933475626" />
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom" timestamp="1605943275167">
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1606011758664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.bottom/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605943275167" />
-    <state width="1894" height="303" key="GridCell.Tab.0.center" timestamp="1605943275167">
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606011758664" />
+    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1606011758664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.center/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605943275167" />
-    <state width="1894" height="303" key="GridCell.Tab.0.left" timestamp="1605943275167">
+    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606011758664" />
+    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1606011758664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429005" />
     <state width="1692" height="332" key="GridCell.Tab.0.left/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605943275167" />
-    <state width="1894" height="303" key="GridCell.Tab.0.right" timestamp="1605943275167">
+    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606011758664" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1606011758664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.right/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605943275167" />
-    <state width="1692" height="332" key="GridCell.Tab.1.bottom" timestamp="1605935422386">
-      <screen x="0" y="0" width="1718" height="886" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606011758664" />
+    <state width="1894" height="405" key="GridCell.Tab.1.bottom" timestamp="1605967911269">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.bottom/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605934145157" />
-    <state width="1692" height="332" key="GridCell.Tab.1.center" timestamp="1605935422386">
-      <screen x="0" y="0" width="1718" height="886" />
+    <state width="1894" height="405" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
+    <state width="1894" height="405" key="GridCell.Tab.1.center" timestamp="1605967911269">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.center/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605934145157" />
-    <state width="1692" height="332" key="GridCell.Tab.1.left" timestamp="1605935422386">
-      <screen x="0" y="0" width="1718" height="886" />
+    <state width="1894" height="405" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
+    <state width="1894" height="405" key="GridCell.Tab.1.left" timestamp="1605967911269">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.left/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605934145157" />
-    <state width="1692" height="332" key="GridCell.Tab.1.right" timestamp="1605935422386">
-      <screen x="0" y="0" width="1718" height="886" />
+    <state width="1894" height="405" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
+    <state width="1894" height="405" key="GridCell.Tab.1.right" timestamp="1605967911269">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.1.right/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1894" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605934145157" />
-    <state x="744" y="101" width="1176" height="883" key="SettingsEditor" timestamp="1605933462975">
+    <state width="1894" height="405" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605967911269" />
+    <state x="744" y="101" width="1176" height="883" key="SettingsEditor" timestamp="1606011896054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="-7" key="SettingsEditor/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894082120" />
-    <state x="744" y="101" width="1176" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605933462975" />
+    <state x="744" y="101" width="1176" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606011896054" />
+    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup" timestamp="1606011987628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="519" y="207" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606011987628" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
