@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.6.07列表的修改查询和删除">
+  <component name="RunManager" selected="Python.6.08列表的遍历">
     <configuration name="4.18打印九九乘法表" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.01字符编码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.10字符串的常见操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,28 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.01字符编码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6.03格式化打印字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.03格式化打印字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5.10字符串的常见操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +140,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6.08列表的遍历" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/6.08列表的遍历.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.08列表的遍历" />
+        <item itemvalue="Python.5.10字符串的常见操作" />
         <item itemvalue="Python.6.07列表的修改查询和删除" />
         <item itemvalue="Python.6.06列表的增加" />
         <item itemvalue="Python.6.05列表的基本使用" />
-        <item itemvalue="Python.6.03格式化打印字符串" />
-        <item itemvalue="Python.6.01字符编码" />
       </list>
     </recent_temporary>
   </component>
@@ -231,30 +231,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="98" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040@0.0.1920.1040" timestamp="1606026756305" />
-    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1606030960649">
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1607844386877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.bottom/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
-    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1606030960649">
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607844386877" />
+    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1607844386877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.center/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
-    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1606030960649">
+    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607844386877" />
+    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1607844386877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429005" />
     <state width="1692" height="332" key="GridCell.Tab.0.left/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
-    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1606030960649">
+    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607844386877" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1607844386877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.-169.1920.1030/0.0.1536.824@-1920.-169.1920.1030" timestamp="1604894429006" />
     <state width="1692" height="332" key="GridCell.Tab.0.right/0.0.1718.886@0.0.1718.886" timestamp="1605935422386" />
-    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606030960649" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607844386877" />
     <state width="1894" height="405" key="GridCell.Tab.1.bottom" timestamp="1606028718201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
