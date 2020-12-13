@@ -201,9 +201,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1606028715309">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="767" y="369" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1607136922514">
+      <screen x="0" y="0" width="1718" height="886" />
     </state>
+    <state x="767" y="369" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1718.886@0.0.1718.886" timestamp="1607136922514" />
     <state x="857" y="433" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606028715309" />
     <state x="655" y="153" key="#xdebugger.evaluate" timestamp="1605429284992">
       <screen x="0" y="0" width="1920" height="1040" />
