@@ -15,3 +15,4 @@ print('修改前', 'nums1=', hex(id(nums1)), 'b=', hex(id(nums2)))
 nums1[0] = 1
 print(nums2)  # [1,200,300]
 print('修改后', 'nums1=', hex(id(nums1)), 'b=', hex(id(nums2)))
+
