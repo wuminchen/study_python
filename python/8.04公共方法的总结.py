@@ -21,7 +21,7 @@ for a in enumerate(nums):
     print(a)
 
 # enumerate()类的作用：返回的结果是一个带有下标的列表，俗称拆包
-for x, e in enumerate(nums):    # 拆包
+for x, e in enumerate(nums):  # 拆包
     # e对应的就是相应下标下的元素
     print('第{}个数据是{}'.format(x, e))
 
