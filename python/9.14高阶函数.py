@@ -9,13 +9,15 @@ def foo():
 
 def bar():
     print('我是doo,我被调用了')
-    return foo()
+    return foo
 
 
 x = bar()
+print('--------------')
 print(x)
-
-
+print('-----------')
+print(x())
+print('---------------')
 # 装饰器
 def outer():
     m = 100
@@ -28,3 +30,5 @@ def outer():
 
 
 outer()  # 不会调用inner函数,无法访问inner函数
+
+print(print)

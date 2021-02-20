@@ -20,6 +20,7 @@ m = map(lambda ele: ele + 2, ages1)
 print(list(m))
 
 # reduce以前是一个内置函数，现在是模块.函数将一个数据集合（链表，元组等）中的所有数据进行下列操作：用传给 reduce 中的函数 function（有两个参数）先对集合中的第 1、2 个元素进行操作，得到的结果再与第三个数据用 function 函数运算，最后得到一个结果。
+
 # 内置函数和内置类都在 builtin.py文件里，后来给放到了一个模块中
 from functools import reduce
 
