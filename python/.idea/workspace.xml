@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="432c0d55-cad2-4d26-8a80-4592e234c0fa" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.14brea和continue的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.14brea和continue的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.10匿名函数使用场景.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.10匿名函数使用场景.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">

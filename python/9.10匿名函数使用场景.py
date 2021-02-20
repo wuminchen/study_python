@@ -1,5 +1,5 @@
-def calc(a, b, fn):
-    return fn(a, b)
+def calc(a, b, ele):
+    return ele(a, b)
 
 
 def add(x, y):
@@ -11,9 +11,9 @@ def minus(x, y):
 
 
 # 回调函数
-x1 = calc(1, 2, add)
+x1 = calc(1, 2, ele=add)
 print(x1)
-x2 = calc(10, 5, minus)
+x2 = calc(10, 5, ele=minus)
 print(x2)
 
 x3 = calc(5, 7, lambda x, y: x + y)
