@@ -12,11 +12,11 @@ print(os.path.isdir('10.09os模块的使用.py'))  # 用来判断一个文件是
 print(os.path.isfile('10.09os模块的使用.py'))  # 用来判断一个文件是否是文件,文件夹不是文件
 print(os.path.exists('10.09os模块的使用.py'))  # 用来判断一个文件是否存在
 # 获取文件的文件名和后缀名
-file_name1 = '2020.10.30.demo.py'
+file_name1 = '2020.10.30.my_module2.py'
 print(file_name1.rpartition('.'))
 # ('2020.10.30.demo', '.', 'py')  # 得到一个元组，元组的第一个就是文件名，第二个就是分隔符，第三个就是后缀名
 
-file_name2 = '2020.10.31.demo.py'
+file_name2 = '2020.10.31.my_module2.py'
 print(os.path.splitext(file_name2))  # ('2020.10.31.demo', '.py')        # 得到一个元组，元组第一个文件名，第二个为后缀名
 
 # 其他方法

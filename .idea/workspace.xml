@@ -5,7 +5,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8bdc72c-a6c2-4c14-b65c-6d5c219094eb" name="默认的" comment="" />
+    <list default="true" id="d8bdc72c-a6c2-4c14-b65c-6d5c219094eb" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/python/11.03自定义模块使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/11.04_name_的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/11.05包的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/bag/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/bag/recv_msg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/bag/send_msg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/my_module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/my_module3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/10.09os模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10.09os模块的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/11.03自定义模块.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +57,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.11.02pip使用">
-    <configuration name="10.13datetime模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\共享-台式\study_python\python\bag" />
+      <recent name="E:\共享-台式\study_python\python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.11.10魔法方法">
+    <configuration name="11.03自定义模块使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/10.13datetime模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.03自定义模块使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10.15calendar模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.05包的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/10.15calendar模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.05包的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10.16 hashlib和hmac模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.07面向对象的基本语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/10.16 hashlib和hmac模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.07面向对象的基本语法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.01uuid模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.08self介绍" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.01uuid模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.08self介绍.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.02pip使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.10魔法方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.02pip使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11.10魔法方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11.02pip使用" />
-        <item itemvalue="Python.11.01uuid模块" />
-        <item itemvalue="Python.10.16 hashlib和hmac模块" />
-        <item itemvalue="Python.10.15calendar模块" />
-        <item itemvalue="Python.10.13datetime模块" />
+        <item itemvalue="Python.11.10魔法方法" />
+        <item itemvalue="Python.11.08self介绍" />
+        <item itemvalue="Python.11.07面向对象的基本语法" />
+        <item itemvalue="Python.11.05包的使用" />
+        <item itemvalue="Python.11.03自定义模块使用" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +237,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -226,9 +270,25 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
