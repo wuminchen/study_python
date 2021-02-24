@@ -33,5 +33,5 @@ print(p)
 print(repr(p))
 print(repr({'name': 'zhangsan', 'age': 18}))
 
-n = p(1, 2, 3, x=2)  # 对象名（） 调用__call__方法
-print(n)
+p(1, 2, 3, x=2)
+
