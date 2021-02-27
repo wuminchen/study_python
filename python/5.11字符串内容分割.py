@@ -16,8 +16,3 @@ print('abcdefXmpsd'.partition('X'))
 
 # rpartiton  将最后的一个指定字符串作为分隔符，分三部分
 print('2012.12.21不要打开.mp4'.rpartition('.'))
-
-
-
-
-

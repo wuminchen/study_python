@@ -5,7 +5,7 @@ i = int(input('第n个'))
 
 num1 = 1
 num2 = 1
-for n in range(0, i-2):
+for n in range(0, i - 2):
     a = num1
     num1 = num2
     num2 = a + num2

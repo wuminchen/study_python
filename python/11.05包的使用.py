@@ -8,8 +8,6 @@
 
 from bag import recv_msg
 from bag.send_msg import x
-import json
-import flask
 
 print(recv_msg.y)
 print(x)

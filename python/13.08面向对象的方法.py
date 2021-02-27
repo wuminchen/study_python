@@ -32,4 +32,3 @@ print(isinstance(p1, Student))
 
 # issubclass 用来判断一个类是否是另外一个类的子类
 print(issubclass(Student, Person))
-

@@ -10,6 +10,6 @@ print(nums1)
 print(x)
 
 names = ['zhangsan', 'lisi', 'wangwu']
-names.reverse()     # reserve 方法直接将列表倒过来，不进行排序
+names.reverse()  # reserve 方法直接将列表倒过来，不进行排序
 print(names)
 # 或者使用切片来倒 print(names[::-1])

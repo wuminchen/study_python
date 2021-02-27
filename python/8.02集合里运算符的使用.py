@@ -8,4 +8,3 @@ print(first - second)  # 差集
 print(first & second)  # 求交集
 print(first | second)  # 求并集
 print(first ^ second)  # 求差集的并集，把不同的集合放在一起
-

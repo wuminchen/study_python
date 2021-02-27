@@ -15,8 +15,8 @@ print(a)"""
 
 # 输入一个正整数，求它是几位数
 
-#number = int(input('输入一个数'))
-#a = 0
+# number = int(input('输入一个数'))
+# a = 0
 """while True:
     if number % (10 ** a) != number:
         a = a + 1
@@ -38,7 +38,5 @@ for number in range(100, 1000):
     a = number // 100
     b = (number % 100) // 10
     c = number % 10
-    if number == a**3 + b ** 3 + c **3:
+    if number == a ** 3 + b ** 3 + c ** 3:
         print(number)
-
-

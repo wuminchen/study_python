@@ -23,9 +23,8 @@ text()
 print(a)
 print(word)
 
-
 # 内置函数 globals(),locals()查看全局变量,和局部变量
 
 # 在 python只有函数能够分割作用域
 if 3 > 2:
-    m = 'hi'    # 全局变量
+    m = 'hi'  # 全局变量

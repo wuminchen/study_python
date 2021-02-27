@@ -7,7 +7,6 @@ x = {'hello', 1, 'good'}  # 集合
 names = {'zhangsan', 'lisi', 'jack', 'tony', 'jack', 'lisi'}
 print(names)  # 集合自动去重，且无序
 
-
 names.add('chen')  # 添加一个元素
 print(names)
 
@@ -17,9 +16,9 @@ print(names)
 names.remove('zhangsan')  # 删除一个
 print(names)
 
-print(names.union({'胡椒粉', 'sda', 'sds'}))   # 求并集，并生成一个新的集合
+print(names.union({'胡椒粉', 'sda', 'sds'}))  # 求并集，并生成一个新的集合
 
-names.update({'sd','奥斯卡'})  # 将一个集合拼接到当前集合
+names.update({'sd', '奥斯卡'})  # 将一个集合拼接到当前集合
 print(names)
 
 names.clear()  # 清空一个集合

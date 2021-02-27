@@ -18,6 +18,8 @@ print(x)
 print('-----------')
 print(x())
 print('---------------')
+
+
 # 装饰器
 def outer():
     m = 100

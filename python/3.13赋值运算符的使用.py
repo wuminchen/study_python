@@ -5,6 +5,5 @@
 a = 4
 
 x = 1
-x = x + 2  #or x += 2
-print(x)   # 3
-
+x = x + 2  # or x += 2
+print(x)  # 3

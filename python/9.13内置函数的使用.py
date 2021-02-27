@@ -25,4 +25,3 @@ print(shang, yushu)  # 7  1
 # print() input()
 # 判断对象相关，isinstance判断一个对象是否是由一个类创建出来
 # issubclass:判断一个类是不是另一个类的子类
-

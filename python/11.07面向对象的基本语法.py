@@ -24,7 +24,7 @@ class Student(object):  # 关注这个类有哪些属性和行为
 
 # 使用Student 类创建了两个实例对象s1,s2
 # s1，s2都会有name、age、height属性，同时都有run和eat方法
-s1 = Student('小明', 18, 1.75)    # Student()会自动调用__init__方法
+s1 = Student('小明', 18, 1.75)  # Student()会自动调用__init__方法
 s2 = Student('小美', 17, 1.65)
 # 根据业务逻辑，让不同的对象执行不同行为
 s1.run()

@@ -23,7 +23,7 @@ print(doctor.index('安娜'))  # 查询元素的下标
 print(doctor.count('天使'))  # 查询元素出现次数
 # in 运算符
 print('和尚' in doctor)  # True
-print('8d' in doctor)   # False
+print('8d' in doctor)  # False
 
 # 修改元素
 # 使用下标可以直接修改元素

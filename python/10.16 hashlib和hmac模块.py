@@ -5,7 +5,6 @@
 # 对称加密，
 # 非对称加密rsa
 import hashlib
-import hmac
 
 # 加密的内容转化为二进制
 x = hashlib.md5()  # 生成一个md5对象
@@ -33,4 +32,3 @@ print(h4.hexdigest())
 # 15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225
 
 # hmac 加密可以指定密钥
-

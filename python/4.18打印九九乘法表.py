@@ -5,5 +5,5 @@ while j < 9:
     while i < j:
         i = i + 1
 
-        print(j, '*', i, '=', (j * i), sep='', end='\t')     # \t 为转义字符tab键
+        print(j, '*', i, '=', (j * i), sep='', end='\t')  # \t 为转义字符tab键
     print()

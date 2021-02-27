@@ -1,6 +1,5 @@
 # sys模块：系统相关功能
 import sys
-import random
 
 print(sys.path)  # 结果是一个列表
 # 表示查找模块的路径,把要导入的模块放到以下任意一个路径中都可以被找到\

@@ -14,4 +14,4 @@ print(calendar.isleap(1990))
 count = calendar.leapdays(1996, 2010)  # 获取1996到2010年一共有多少个闰年  1996 2000 2004 2008
 print(count)  # 4
 
-print(calendar.month(2020, 10))     # 具体的打印某一个月份的日历
+print(calendar.month(2020, 10))  # 具体的打印某一个月份的日历

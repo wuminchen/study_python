@@ -15,5 +15,5 @@ c = """xiaomi said : "i am xiaoming" """
 # \t====>制表符
 # \\====>显示普通的反斜线
 # 在字符串前添加 r 表示原生字符
-x = 'I\'m xiaoming'     # \ 对后面的字符进行转义
+x = 'I\'m xiaoming'  # \ 对后面的字符进行转义
 y = r'i\tl'

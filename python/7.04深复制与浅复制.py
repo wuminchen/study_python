@@ -17,4 +17,3 @@ words[0] = '你好'
 print(words, words1, words2)  # words1，words2不改变
 words[2][0] = 1
 print(words1, words2)  # words1 改变外层，内层没改    words2两层都改变
-

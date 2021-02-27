@@ -18,7 +18,6 @@ class Person(object):
     # cls指的是类对象
     @classmethod
     def test(cls):
-
         print('test')
 
     # 静态方法:没有用到实例对象的任何属性，和不用类对象，可以将这个方法定义成static

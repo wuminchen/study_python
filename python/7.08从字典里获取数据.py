@@ -12,4 +12,3 @@ print(person.get('height'))  # None
 # 如果根据key获取不到value，使用给定值
 print(person.get('gender', 'female'))  # female
 print(person.get('name', 'lisi'))  # zhangsan
-

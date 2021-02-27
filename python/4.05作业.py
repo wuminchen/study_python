@@ -28,4 +28,4 @@ else:
 hour = (15678 // 60) // 60
 minutes = (15678 // 60) % 60
 seconds = 15678 % 60
-print(str(hour)+"时"+str(minutes)+'分'+str(seconds)+'秒')
+print(str(hour) + "时" + str(minutes) + '分' + str(seconds) + '秒')

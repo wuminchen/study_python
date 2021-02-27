@@ -42,4 +42,3 @@ print(type(s))
 # 列表，元组     |         数组
 print(json.dumps(['hello', 'good', 'yes', True]))
 print(json.dumps(('hello', 'good', 'yes', False)))
-

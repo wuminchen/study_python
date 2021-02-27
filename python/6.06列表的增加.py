@@ -15,4 +15,3 @@ print(names)
 
 x = ['王伟', '陈久', '鸣人', '无敌']
 names.extend(x)  # extend(可迭代对象),将迭代对象追加到列表后面
-
