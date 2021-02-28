@@ -38,3 +38,7 @@ p.work_with_pd()
 bd = Blinddog()
 p.dog = bd
 p.work_with_bd()
+
+dd = Policedog( )
+p.dog = dd
+p.work_with_dd()
